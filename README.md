@@ -6,7 +6,7 @@
 * It provides sufficient space between text and surrounding elements and uses fonts that are either the Android defaults,
   are complementary, and aren't otherwise distracting.
   
-  <img src=../master/Screen/P5%20main.png width=450 height=700 /> 
+  <img src=../master/Screen/P5%20main.png width=400 height=700 /> 
 <img src=../master/Screen/P5%20main%20loaded.png width=450 height=700 /> 
 <img src=../master/Screen/P5%20detail.png width=450 height=700 /> 
 
